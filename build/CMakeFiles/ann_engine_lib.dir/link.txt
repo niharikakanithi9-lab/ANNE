@@ -1,2 +1,0 @@
-/usr/bin/ar qc libann_engine_lib.a CMakeFiles/ann_engine_lib.dir/src/hnsw.cpp.o CMakeFiles/ann_engine_lib.dir/src/distance.cpp.o CMakeFiles/ann_engine_lib.dir/src/io.cpp.o
-/usr/bin/ranlib libann_engine_lib.a

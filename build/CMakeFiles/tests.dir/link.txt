@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -march=native -DNDEBUG -Wl,--dependency-file=CMakeFiles/tests.dir/link.d CMakeFiles/tests.dir/tests/test_distance.cpp.o CMakeFiles/tests.dir/tests/test_hnsw.cpp.o CMakeFiles/tests.dir/tests/test_io.cpp.o CMakeFiles/tests.dir/tests/test_recall.cpp.o -o tests  libann_engine_lib.a lib/libgtest_main.a lib/libgtest.a

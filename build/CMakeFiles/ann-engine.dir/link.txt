@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -march=native -DNDEBUG -Wl,--dependency-file=CMakeFiles/ann-engine.dir/link.d "CMakeFiles/ann-engine.dir/src/main.cpp.o" -o ann-engine  libann_engine_lib.a
