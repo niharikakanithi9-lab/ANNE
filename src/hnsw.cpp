@@ -485,11 +485,12 @@ RecallResult evaluate_recall(HNSW&        index,
                              const float* queries, int n_q,
                              const int*   gt,
                              int          k,
-                             int          ef_search) {
+                             int          ef_search,
+                             int          gt_stride) {
     index.set_ef_search(ef_search);
 
     float total = 0.f, min_r = 1.f, max_r = 0.f;
-    int gt_k = k;  // assume gt has k columns
+    int gt_k = (gt_stride > 0) ? gt_stride : 100;
 
     auto t0 = std::chrono::high_resolution_clock::now();
 

@@ -157,6 +157,7 @@ RecallResult evaluate_recall(HNSW&        index,
                              const float* queries, int n_q,
                              const int*   gt,
                              int          k,
-                             int          ef_search);
+                             int          ef_search,
+                             int          gt_stride = -1);
 
 } // namespace ann

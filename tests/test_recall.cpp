@@ -64,7 +64,7 @@ TEST(EvalRecall, AtHighEfApproachesExact) {
     idx.build(db.data(), n);
 
     RecallResult r = evaluate_recall(idx, qs.data(), 100,
-                                      gt.data(), k, 500);
+                                      gt.data(), k, 500,k);
     EXPECT_GE(r.mean_recall, 0.95f)
         << "Expected >=95% recall at ef=500, got " << r.mean_recall;
 }

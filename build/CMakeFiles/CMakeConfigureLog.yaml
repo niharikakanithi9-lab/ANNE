@@ -48,6 +48,7 @@ events:
       - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/"
+      - "/snap/bin/"
     searched_directories:
       - "/usr/local/sbin/uname"
       - "/usr/local/bin/uname"
@@ -84,6 +85,7 @@ events:
         - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git"
         - "/mnt/c/Users/nihar/AppData/Roaming/npm"
+        - "/snap/bin"
   -
     kind: "message-v1"
     backtrace:
@@ -140,6 +142,7 @@ events:
       - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/"
+      - "/snap/bin/"
     searched_directories:
       - "/usr/local/sbin/gmake"
       - "/usr/local/bin/gmake"
@@ -176,6 +179,7 @@ events:
         - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git"
         - "/mnt/c/Users/nihar/AppData/Roaming/npm"
+        - "/snap/bin"
   -
     kind: "find-v1"
     backtrace:
@@ -233,6 +237,7 @@ events:
       - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/"
+      - "/snap/bin/"
     searched_directories:
       - "/usr/local/sbin/c++"
       - "/usr/local/bin/c++"
@@ -269,6 +274,7 @@ events:
         - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git"
         - "/mnt/c/Users/nihar/AppData/Roaming/npm"
+        - "/snap/bin"
   -
     kind: "find-v1"
     backtrace:
@@ -325,6 +331,7 @@ events:
         - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git"
         - "/mnt/c/Users/nihar/AppData/Roaming/npm"
+        - "/snap/bin"
   -
     kind: "message-v1"
     backtrace:
@@ -395,6 +402,7 @@ events:
       - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/"
+      - "/snap/bin/"
     found: "/usr/bin/ar"
     search_context:
       ENV{PATH}:
@@ -427,6 +435,7 @@ events:
         - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git"
         - "/mnt/c/Users/nihar/AppData/Roaming/npm"
+        - "/snap/bin"
   -
     kind: "find-v1"
     backtrace:
@@ -475,6 +484,7 @@ events:
       - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/"
+      - "/snap/bin/"
     found: "/usr/bin/ranlib"
     search_context:
       ENV{PATH}:
@@ -507,6 +517,7 @@ events:
         - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git"
         - "/mnt/c/Users/nihar/AppData/Roaming/npm"
+        - "/snap/bin"
   -
     kind: "find-v1"
     backtrace:
@@ -555,6 +566,7 @@ events:
       - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/"
+      - "/snap/bin/"
     found: "/usr/bin/strip"
     search_context:
       ENV{PATH}:
@@ -587,6 +599,7 @@ events:
         - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git"
         - "/mnt/c/Users/nihar/AppData/Roaming/npm"
+        - "/snap/bin"
   -
     kind: "find-v1"
     backtrace:
@@ -635,6 +648,7 @@ events:
       - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/"
+      - "/snap/bin/"
     found: "/usr/bin/ld"
     search_context:
       ENV{PATH}:
@@ -667,6 +681,7 @@ events:
         - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git"
         - "/mnt/c/Users/nihar/AppData/Roaming/npm"
+        - "/snap/bin"
   -
     kind: "find-v1"
     backtrace:
@@ -715,6 +730,7 @@ events:
       - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/"
+      - "/snap/bin/"
     found: "/usr/bin/nm"
     search_context:
       ENV{PATH}:
@@ -747,6 +763,7 @@ events:
         - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git"
         - "/mnt/c/Users/nihar/AppData/Roaming/npm"
+        - "/snap/bin"
   -
     kind: "find-v1"
     backtrace:
@@ -795,6 +812,7 @@ events:
       - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/"
+      - "/snap/bin/"
     found: "/usr/bin/objdump"
     search_context:
       ENV{PATH}:
@@ -827,6 +845,7 @@ events:
         - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git"
         - "/mnt/c/Users/nihar/AppData/Roaming/npm"
+        - "/snap/bin"
   -
     kind: "find-v1"
     backtrace:
@@ -875,6 +894,7 @@ events:
       - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/"
+      - "/snap/bin/"
     found: "/usr/bin/objcopy"
     search_context:
       ENV{PATH}:
@@ -907,6 +927,7 @@ events:
         - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git"
         - "/mnt/c/Users/nihar/AppData/Roaming/npm"
+        - "/snap/bin"
   -
     kind: "find-v1"
     backtrace:
@@ -955,6 +976,7 @@ events:
       - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/"
+      - "/snap/bin/"
     found: "/usr/bin/readelf"
     search_context:
       ENV{PATH}:
@@ -987,6 +1009,7 @@ events:
         - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git"
         - "/mnt/c/Users/nihar/AppData/Roaming/npm"
+        - "/snap/bin"
   -
     kind: "find-v1"
     backtrace:
@@ -1035,6 +1058,7 @@ events:
       - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/"
+      - "/snap/bin/"
     searched_directories:
       - "/usr/bin/dlltool"
       - "/usr/local/sbin/dlltool"
@@ -1064,6 +1088,7 @@ events:
       - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin/dlltool"
       - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/dlltool"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/dlltool"
+      - "/snap/bin/dlltool"
     found: false
     search_context:
       ENV{PATH}:
@@ -1096,6 +1121,7 @@ events:
         - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git"
         - "/mnt/c/Users/nihar/AppData/Roaming/npm"
+        - "/snap/bin"
   -
     kind: "find-v1"
     backtrace:
@@ -1144,6 +1170,7 @@ events:
       - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/"
+      - "/snap/bin/"
     found: "/usr/bin/addr2line"
     search_context:
       ENV{PATH}:
@@ -1176,6 +1203,7 @@ events:
         - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git"
         - "/mnt/c/Users/nihar/AppData/Roaming/npm"
+        - "/snap/bin"
   -
     kind: "find-v1"
     backtrace:
@@ -1224,6 +1252,7 @@ events:
       - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/"
+      - "/snap/bin/"
     searched_directories:
       - "/usr/bin/tapi"
       - "/usr/local/sbin/tapi"
@@ -1253,6 +1282,7 @@ events:
       - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin/tapi"
       - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/tapi"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/tapi"
+      - "/snap/bin/tapi"
     found: false
     search_context:
       ENV{PATH}:
@@ -1285,6 +1315,7 @@ events:
         - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git"
         - "/mnt/c/Users/nihar/AppData/Roaming/npm"
+        - "/snap/bin"
   -
     kind: "find-v1"
     backtrace:
@@ -1336,6 +1367,7 @@ events:
       - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/"
+      - "/snap/bin/"
     searched_directories:
       - "/usr/bin/gcc-ar-15.2"
       - "/usr/local/sbin/gcc-ar-15.2"
@@ -1365,6 +1397,7 @@ events:
       - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-15.2"
       - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/gcc-ar-15.2"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/gcc-ar-15.2"
+      - "/snap/bin/gcc-ar-15.2"
     found: "/usr/bin/gcc-ar-15"
     search_context:
       ENV{PATH}:
@@ -1397,6 +1430,7 @@ events:
         - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git"
         - "/mnt/c/Users/nihar/AppData/Roaming/npm"
+        - "/snap/bin"
   -
     kind: "find-v1"
     backtrace:
@@ -1448,6 +1482,7 @@ events:
       - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/"
+      - "/snap/bin/"
     searched_directories:
       - "/usr/bin/gcc-ranlib-15.2"
       - "/usr/local/sbin/gcc-ranlib-15.2"
@@ -1477,6 +1512,7 @@ events:
       - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-15.2"
       - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/gcc-ranlib-15.2"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/gcc-ranlib-15.2"
+      - "/snap/bin/gcc-ranlib-15.2"
     found: "/usr/bin/gcc-ranlib-15"
     search_context:
       ENV{PATH}:
@@ -1509,6 +1545,7 @@ events:
         - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git"
         - "/mnt/c/Users/nihar/AppData/Roaming/npm"
+        - "/snap/bin"
   -
     kind: "try_compile-v1"
     backtrace:
@@ -1518,8 +1555,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-NPmGx3"
-      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-NPmGx3"
+      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-PZvOE4"
+      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-PZvOE4"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -1529,13 +1566,13 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-NPmGx3'
+        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-PZvOE4'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_9f89c/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_9f89c.dir/build.make CMakeFiles/cmTC_9f89c.dir/build
-        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-NPmGx3'
-        Building CXX object CMakeFiles/cmTC_9f89c.dir/CMakeCXXCompilerABI.cpp.o
-        /usr/bin/c++   -v -o CMakeFiles/cmTC_9f89c.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_cd620/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_cd620.dir/build.make CMakeFiles/cmTC_cd620.dir/build
+        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-PZvOE4'
+        Building CXX object CMakeFiles/cmTC_cd620.dir/CMakeCXXCompilerABI.cpp.o
+        /usr/bin/c++   -v -o CMakeFiles/cmTC_cd620.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp
         Using built-in specs.
         COLLECT_GCC=/usr/bin/c++
         OFFLOAD_TARGET_NAMES=nvptx-none:amdgcn-amdhsa
@@ -1545,8 +1582,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib zstd
         gcc version 15.2.0 (Ubuntu 15.2.0-16ubuntu1) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9f89c.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9f89c.dir/'
-         /usr/libexec/gcc/x86_64-linux-gnu/15/cc1plus -quiet -v -imultiarch x86_64-linux-gnu -D_GNU_SOURCE /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_9f89c.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -fzero-init-padding-bits=all -Wbidi-chars=any -o /tmp/cc2UfQFf.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_cd620.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_cd620.dir/'
+         /usr/libexec/gcc/x86_64-linux-gnu/15/cc1plus -quiet -v -imultiarch x86_64-linux-gnu -D_GNU_SOURCE /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_cd620.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -fzero-init-padding-bits=all -Wbidi-chars=any -o /tmp/cc0DsclA.s
         GNU C++17 (Ubuntu 15.2.0-16ubuntu1) version 15.2.0 (x86_64-linux-gnu)
         	compiled by GNU C version 15.2.0, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.3.1, isl version isl-0.27-GMP
         
@@ -1567,14 +1604,14 @@ events:
          /usr/include
         End of search list.
         Compiler executable checksum: b661a74662ad7cf413c4193391ab5290
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9f89c.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9f89c.dir/'
-         /usr/bin/x86_64-linux-gnu-as -v --64 -o CMakeFiles/cmTC_9f89c.dir/CMakeCXXCompilerABI.cpp.o /tmp/cc2UfQFf.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_cd620.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_cd620.dir/'
+         /usr/bin/x86_64-linux-gnu-as -v --64 -o CMakeFiles/cmTC_cd620.dir/CMakeCXXCompilerABI.cpp.o /tmp/cc0DsclA.s
         GNU assembler version 2.46 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.46
         COMPILER_PATH=/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/
         LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../:/lib/:/usr/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9f89c.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9f89c.dir/CMakeCXXCompilerABI.cpp.'
-        Linking CXX executable cmTC_9f89c
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9f89c.dir/link.txt --verbose=1
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_cd620.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_cd620.dir/CMakeCXXCompilerABI.cpp.'
+        Linking CXX executable cmTC_cd620
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cd620.dir/link.txt --verbose=1
         Using built-in specs.
         COLLECT_GCC=/usr/bin/c++
         COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper
@@ -1587,14 +1624,14 @@ events:
         gcc version 15.2.0 (Ubuntu 15.2.0-16ubuntu1) 
         COMPILER_PATH=/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/
         LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../:/lib/:/usr/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9f89c' '-foffload-options=-l_GCC_stdc++' '-foffload-options=-l_GCC_m' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_9f89c.'
-         /usr/libexec/gcc/x86_64-linux-gnu/15/collect2 -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccmgdZSl.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_9f89c /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_9f89c.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_cd620' '-foffload-options=-l_GCC_stdc++' '-foffload-options=-l_GCC_m' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_cd620.'
+         /usr/libexec/gcc/x86_64-linux-gnu/15/collect2 -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccZVt6Wi.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_cd620 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_cd620.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o
         collect2 version 15.2.0
-        /usr/bin/ld -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccmgdZSl.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_9f89c /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_9f89c.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o
+        /usr/bin/ld -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccZVt6Wi.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_cd620 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_cd620.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o
         GNU ld (GNU Binutils for Ubuntu) 2.46
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9f89c' '-foffload-options=-l_GCC_stdc++' '-foffload-options=-l_GCC_m' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_9f89c.'
-        /usr/bin/c++  -v -Wl,-v CMakeFiles/cmTC_9f89c.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_9f89c
-        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-NPmGx3'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_cd620' '-foffload-options=-l_GCC_stdc++' '-foffload-options=-l_GCC_m' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_cd620.'
+        /usr/bin/c++  -v -Wl,-v CMakeFiles/cmTC_cd620.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_cd620
+        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-PZvOE4'
         
       exitCode: 0
   -
@@ -1635,13 +1672,13 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-NPmGx3']
+        ignore line: [Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-PZvOE4']
         ignore line: []
-        ignore line: [Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_9f89c/fast]
-        ignore line: [/usr/bin/gmake  -f CMakeFiles/cmTC_9f89c.dir/build.make CMakeFiles/cmTC_9f89c.dir/build]
-        ignore line: [gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-NPmGx3']
-        ignore line: [Building CXX object CMakeFiles/cmTC_9f89c.dir/CMakeCXXCompilerABI.cpp.o]
-        ignore line: [/usr/bin/c++   -v -o CMakeFiles/cmTC_9f89c.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_cd620/fast]
+        ignore line: [/usr/bin/gmake  -f CMakeFiles/cmTC_cd620.dir/build.make CMakeFiles/cmTC_cd620.dir/build]
+        ignore line: [gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-PZvOE4']
+        ignore line: [Building CXX object CMakeFiles/cmTC_cd620.dir/CMakeCXXCompilerABI.cpp.o]
+        ignore line: [/usr/bin/c++   -v -o CMakeFiles/cmTC_cd620.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/usr/bin/c++]
         ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none:amdgcn-amdhsa]
@@ -1651,8 +1688,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib zstd]
         ignore line: [gcc version 15.2.0 (Ubuntu 15.2.0-16ubuntu1) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9f89c.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9f89c.dir/']
-        ignore line: [ /usr/libexec/gcc/x86_64-linux-gnu/15/cc1plus -quiet -v -imultiarch x86_64-linux-gnu -D_GNU_SOURCE /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_9f89c.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -fzero-init-padding-bits=all -Wbidi-chars=any -o /tmp/cc2UfQFf.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_cd620.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_cd620.dir/']
+        ignore line: [ /usr/libexec/gcc/x86_64-linux-gnu/15/cc1plus -quiet -v -imultiarch x86_64-linux-gnu -D_GNU_SOURCE /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_cd620.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -fzero-init-padding-bits=all -Wbidi-chars=any -o /tmp/cc0DsclA.s]
         ignore line: [GNU C++17 (Ubuntu 15.2.0-16ubuntu1) version 15.2.0 (x86_64-linux-gnu)]
         ignore line: [	compiled by GNU C version 15.2.0  GMP version 6.3.0  MPFR version 4.2.2  MPC version 1.3.1  isl version isl-0.27-GMP]
         ignore line: []
@@ -1673,14 +1710,14 @@ events:
         ignore line: [ /usr/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: b661a74662ad7cf413c4193391ab5290]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9f89c.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9f89c.dir/']
-        ignore line: [ /usr/bin/x86_64-linux-gnu-as -v --64 -o CMakeFiles/cmTC_9f89c.dir/CMakeCXXCompilerABI.cpp.o /tmp/cc2UfQFf.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_cd620.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_cd620.dir/']
+        ignore line: [ /usr/bin/x86_64-linux-gnu-as -v --64 -o CMakeFiles/cmTC_cd620.dir/CMakeCXXCompilerABI.cpp.o /tmp/cc0DsclA.s]
         ignore line: [GNU assembler version 2.46 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.46]
         ignore line: [COMPILER_PATH=/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/]
         ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../:/lib/:/usr/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9f89c.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9f89c.dir/CMakeCXXCompilerABI.cpp.']
-        ignore line: [Linking CXX executable cmTC_9f89c]
-        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9f89c.dir/link.txt --verbose=1]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_cd620.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_cd620.dir/CMakeCXXCompilerABI.cpp.']
+        ignore line: [Linking CXX executable cmTC_cd620]
+        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cd620.dir/link.txt --verbose=1]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/usr/bin/c++]
         ignore line: [COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper]
@@ -1693,13 +1730,13 @@ events:
         ignore line: [gcc version 15.2.0 (Ubuntu 15.2.0-16ubuntu1) ]
         ignore line: [COMPILER_PATH=/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/]
         ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../:/lib/:/usr/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9f89c' '-foffload-options=-l_GCC_stdc++' '-foffload-options=-l_GCC_m' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_9f89c.']
-        link line: [ /usr/libexec/gcc/x86_64-linux-gnu/15/collect2 -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccmgdZSl.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_9f89c /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_9f89c.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_cd620' '-foffload-options=-l_GCC_stdc++' '-foffload-options=-l_GCC_m' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_cd620.']
+        link line: [ /usr/libexec/gcc/x86_64-linux-gnu/15/collect2 -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccZVt6Wi.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_cd620 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_cd620.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
           arg [/usr/libexec/gcc/x86_64-linux-gnu/15/collect2] ==> ignore
           arg [-plugin] ==> ignore
           arg [/usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so] ==> ignore
           arg [-plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper] ==> ignore
-          arg [-plugin-opt=-fresolution=/tmp/ccmgdZSl.res] ==> ignore
+          arg [-plugin-opt=-fresolution=/tmp/ccZVt6Wi.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
           arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -1717,7 +1754,7 @@ events:
           arg [-znow] ==> ignore
           arg [-zrelro] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_9f89c] ==> ignore
+          arg [cmTC_cd620] ==> ignore
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o]
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o]
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o]
@@ -1732,7 +1769,7 @@ events:
           arg [-L/lib] ==> dir [/lib]
           arg [-L/usr/lib] ==> dir [/usr/lib]
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_9f89c.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+          arg [CMakeFiles/cmTC_cd620.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
           arg [-lstdc++] ==> lib [stdc++]
           arg [-lm] ==> lib [m]
           arg [-lgcc_s] ==> lib [gcc_s]
@@ -1743,7 +1780,7 @@ events:
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o]
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
         ignore line: [collect2 version 15.2.0]
-        ignore line: [/usr/bin/ld -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccmgdZSl.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_9f89c /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_9f89c.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
+        ignore line: [/usr/bin/ld -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccZVt6Wi.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_cd620 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_cd620.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
         linker tool for 'CXX': /usr/bin/ld
         collapse obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o] ==> [/usr/lib/x86_64-linux-gnu/Scrt1.o]
         collapse obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o] ==> [/usr/lib/x86_64-linux-gnu/crti.o]
@@ -1784,8 +1821,8 @@ events:
     checks:
       - "Performing Test COMPILER_SUPPORTS_AVX2"
     directories:
-      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-XgsLut"
-      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-XgsLut"
+      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-lC4QwF"
+      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-lC4QwF"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g -O0 -fsanitize=address,undefined"
@@ -1794,17 +1831,17 @@ events:
       variable: "COMPILER_SUPPORTS_AVX2"
       cached: true
       stdout: |
-        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-XgsLut'
+        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-lC4QwF'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_4dfa1/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_4dfa1.dir/build.make CMakeFiles/cmTC_4dfa1.dir/build
-        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-XgsLut'
-        Building CXX object CMakeFiles/cmTC_4dfa1.dir/src.cxx.o
-        /usr/bin/c++ -DCOMPILER_SUPPORTS_AVX2  -std=gnu++17   -mavx2 -o CMakeFiles/cmTC_4dfa1.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-XgsLut/src.cxx
-        Linking CXX executable cmTC_4dfa1
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4dfa1.dir/link.txt --verbose=1
-        /usr/bin/c++ CMakeFiles/cmTC_4dfa1.dir/src.cxx.o -o cmTC_4dfa1
-        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-XgsLut'
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_1bdb6/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_1bdb6.dir/build.make CMakeFiles/cmTC_1bdb6.dir/build
+        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-lC4QwF'
+        Building CXX object CMakeFiles/cmTC_1bdb6.dir/src.cxx.o
+        /usr/bin/c++ -DCOMPILER_SUPPORTS_AVX2  -std=gnu++17   -mavx2 -o CMakeFiles/cmTC_1bdb6.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-lC4QwF/src.cxx
+        Linking CXX executable cmTC_1bdb6
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1bdb6.dir/link.txt --verbose=1
+        /usr/bin/c++ CMakeFiles/cmTC_1bdb6.dir/src.cxx.o -o cmTC_1bdb6
+        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-lC4QwF'
         
       exitCode: 0
   -
@@ -1866,6 +1903,7 @@ events:
         - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git"
         - "/mnt/c/Users/nihar/AppData/Roaming/npm"
+        - "/snap/bin"
       CMAKE_INSTALL_PREFIX: "/usr/local"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "/usr/local"
@@ -1932,6 +1970,7 @@ events:
         - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git"
         - "/mnt/c/Users/nihar/AppData/Roaming/npm"
+        - "/snap/bin"
       CMAKE_INSTALL_PREFIX: "/usr/local"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "/usr/local"
@@ -2017,6 +2056,7 @@ events:
       - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/"
+      - "/snap/bin/"
       - "/usr/local/bin/"
       - "/usr/local/sbin/"
       - "/usr/local/"
@@ -2063,6 +2103,7 @@ events:
       - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-15.2"
       - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/gcc-ar-15.2"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/gcc-ar-15.2"
+      - "/snap/bin/gcc-ar-15.2"
       - "/usr/local/bin/gcc-ar-15.2"
       - "/usr/local/sbin/gcc-ar-15.2"
       - "/usr/local/gcc-ar-15.2"
@@ -2112,6 +2153,7 @@ events:
         - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git"
         - "/mnt/c/Users/nihar/AppData/Roaming/npm"
+        - "/snap/bin"
       CMAKE_INSTALL_PREFIX: "/usr/local"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "/usr/local"
@@ -2173,6 +2215,7 @@ events:
       - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/"
+      - "/snap/bin/"
       - "/usr/local/bin/"
       - "/usr/local/sbin/"
       - "/usr/local/"
@@ -2219,6 +2262,7 @@ events:
       - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-15.2"
       - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/gcc-ranlib-15.2"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/gcc-ranlib-15.2"
+      - "/snap/bin/gcc-ranlib-15.2"
       - "/usr/local/bin/gcc-ranlib-15.2"
       - "/usr/local/sbin/gcc-ranlib-15.2"
       - "/usr/local/gcc-ranlib-15.2"
@@ -2268,6 +2312,7 @@ events:
         - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git"
         - "/mnt/c/Users/nihar/AppData/Roaming/npm"
+        - "/snap/bin"
       CMAKE_INSTALL_PREFIX: "/usr/local"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "/usr/local"
@@ -2287,8 +2332,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-a1dsV9"
-      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-a1dsV9"
+      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-yRXGml"
+      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-yRXGml"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -2297,13 +2342,13 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-a1dsV9'
+        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-yRXGml'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_9bf20/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_9bf20.dir/build.make CMakeFiles/cmTC_9bf20.dir/build
-        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-a1dsV9'
-        Building C object CMakeFiles/cmTC_9bf20.dir/CMakeCCompilerABI.c.o
-        /usr/bin/cc   -v -o CMakeFiles/cmTC_9bf20.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_f35af/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_f35af.dir/build.make CMakeFiles/cmTC_f35af.dir/build
+        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-yRXGml'
+        Building C object CMakeFiles/cmTC_f35af.dir/CMakeCCompilerABI.c.o
+        /usr/bin/cc   -v -o CMakeFiles/cmTC_f35af.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c
         Using built-in specs.
         COLLECT_GCC=/usr/bin/cc
         OFFLOAD_TARGET_NAMES=nvptx-none:amdgcn-amdhsa
@@ -2313,8 +2358,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib zstd
         gcc version 15.2.0 (Ubuntu 15.2.0-16ubuntu1) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9bf20.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9bf20.dir/'
-         /usr/libexec/gcc/x86_64-linux-gnu/15/cc1 -quiet -v -imultiarch x86_64-linux-gnu /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_9bf20.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=x86-64 -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -fzero-init-padding-bits=all -Wbidi-chars=any -o /tmp/cc4herUi.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_f35af.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_f35af.dir/'
+         /usr/libexec/gcc/x86_64-linux-gnu/15/cc1 -quiet -v -imultiarch x86_64-linux-gnu /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_f35af.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=x86-64 -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -fzero-init-padding-bits=all -Wbidi-chars=any -o /tmp/ccvpkgB9.s
         GNU C23 (Ubuntu 15.2.0-16ubuntu1) version 15.2.0 (x86_64-linux-gnu)
         	compiled by GNU C version 15.2.0, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.3.1, isl version isl-0.27-GMP
         
@@ -2331,14 +2376,14 @@ events:
          /usr/include
         End of search list.
         Compiler executable checksum: edd70396dcc669433a92073f97309866
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9bf20.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9bf20.dir/'
-         /usr/bin/x86_64-linux-gnu-as -v --64 -o CMakeFiles/cmTC_9bf20.dir/CMakeCCompilerABI.c.o /tmp/cc4herUi.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_f35af.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_f35af.dir/'
+         /usr/bin/x86_64-linux-gnu-as -v --64 -o CMakeFiles/cmTC_f35af.dir/CMakeCCompilerABI.c.o /tmp/ccvpkgB9.s
         GNU assembler version 2.46 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.46
         COMPILER_PATH=/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/
         LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../:/lib/:/usr/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9bf20.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9bf20.dir/CMakeCCompilerABI.c.'
-        Linking C executable cmTC_9bf20
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9bf20.dir/link.txt --verbose=1
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_f35af.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_f35af.dir/CMakeCCompilerABI.c.'
+        Linking C executable cmTC_f35af
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f35af.dir/link.txt --verbose=1
         Using built-in specs.
         COLLECT_GCC=/usr/bin/cc
         COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper
@@ -2351,14 +2396,14 @@ events:
         gcc version 15.2.0 (Ubuntu 15.2.0-16ubuntu1) 
         COMPILER_PATH=/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/
         LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../:/lib/:/usr/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9bf20' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_9bf20.'
-         /usr/libexec/gcc/x86_64-linux-gnu/15/collect2 -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/cck1LbZc.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_9bf20 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_9bf20.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_f35af' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_f35af.'
+         /usr/libexec/gcc/x86_64-linux-gnu/15/collect2 -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccHPNWEj.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_f35af /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_f35af.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o
         collect2 version 15.2.0
-        /usr/bin/ld -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/cck1LbZc.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_9bf20 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_9bf20.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o
+        /usr/bin/ld -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccHPNWEj.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_f35af /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_f35af.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o
         GNU ld (GNU Binutils for Ubuntu) 2.46
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9bf20' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_9bf20.'
-        /usr/bin/cc  -v -Wl,-v CMakeFiles/cmTC_9bf20.dir/CMakeCCompilerABI.c.o -o cmTC_9bf20
-        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-a1dsV9'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_f35af' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_f35af.'
+        /usr/bin/cc  -v -Wl,-v CMakeFiles/cmTC_f35af.dir/CMakeCCompilerABI.c.o -o cmTC_f35af
+        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-yRXGml'
         
       exitCode: 0
   -
@@ -2393,13 +2438,13 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-a1dsV9']
+        ignore line: [Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-yRXGml']
         ignore line: []
-        ignore line: [Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_9bf20/fast]
-        ignore line: [/usr/bin/gmake  -f CMakeFiles/cmTC_9bf20.dir/build.make CMakeFiles/cmTC_9bf20.dir/build]
-        ignore line: [gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-a1dsV9']
-        ignore line: [Building C object CMakeFiles/cmTC_9bf20.dir/CMakeCCompilerABI.c.o]
-        ignore line: [/usr/bin/cc   -v -o CMakeFiles/cmTC_9bf20.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c]
+        ignore line: [Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_f35af/fast]
+        ignore line: [/usr/bin/gmake  -f CMakeFiles/cmTC_f35af.dir/build.make CMakeFiles/cmTC_f35af.dir/build]
+        ignore line: [gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-yRXGml']
+        ignore line: [Building C object CMakeFiles/cmTC_f35af.dir/CMakeCCompilerABI.c.o]
+        ignore line: [/usr/bin/cc   -v -o CMakeFiles/cmTC_f35af.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/usr/bin/cc]
         ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none:amdgcn-amdhsa]
@@ -2409,8 +2454,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib zstd]
         ignore line: [gcc version 15.2.0 (Ubuntu 15.2.0-16ubuntu1) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9bf20.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9bf20.dir/']
-        ignore line: [ /usr/libexec/gcc/x86_64-linux-gnu/15/cc1 -quiet -v -imultiarch x86_64-linux-gnu /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_9bf20.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=x86-64 -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -fzero-init-padding-bits=all -Wbidi-chars=any -o /tmp/cc4herUi.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_f35af.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_f35af.dir/']
+        ignore line: [ /usr/libexec/gcc/x86_64-linux-gnu/15/cc1 -quiet -v -imultiarch x86_64-linux-gnu /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_f35af.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=x86-64 -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -fzero-init-padding-bits=all -Wbidi-chars=any -o /tmp/ccvpkgB9.s]
         ignore line: [GNU C23 (Ubuntu 15.2.0-16ubuntu1) version 15.2.0 (x86_64-linux-gnu)]
         ignore line: [	compiled by GNU C version 15.2.0  GMP version 6.3.0  MPFR version 4.2.2  MPC version 1.3.1  isl version isl-0.27-GMP]
         ignore line: []
@@ -2427,14 +2472,14 @@ events:
         ignore line: [ /usr/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: edd70396dcc669433a92073f97309866]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9bf20.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9bf20.dir/']
-        ignore line: [ /usr/bin/x86_64-linux-gnu-as -v --64 -o CMakeFiles/cmTC_9bf20.dir/CMakeCCompilerABI.c.o /tmp/cc4herUi.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_f35af.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_f35af.dir/']
+        ignore line: [ /usr/bin/x86_64-linux-gnu-as -v --64 -o CMakeFiles/cmTC_f35af.dir/CMakeCCompilerABI.c.o /tmp/ccvpkgB9.s]
         ignore line: [GNU assembler version 2.46 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.46]
         ignore line: [COMPILER_PATH=/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/]
         ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../:/lib/:/usr/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9bf20.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9bf20.dir/CMakeCCompilerABI.c.']
-        ignore line: [Linking C executable cmTC_9bf20]
-        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9bf20.dir/link.txt --verbose=1]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_f35af.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_f35af.dir/CMakeCCompilerABI.c.']
+        ignore line: [Linking C executable cmTC_f35af]
+        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f35af.dir/link.txt --verbose=1]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/usr/bin/cc]
         ignore line: [COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper]
@@ -2447,13 +2492,13 @@ events:
         ignore line: [gcc version 15.2.0 (Ubuntu 15.2.0-16ubuntu1) ]
         ignore line: [COMPILER_PATH=/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/]
         ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../:/lib/:/usr/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9bf20' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_9bf20.']
-        link line: [ /usr/libexec/gcc/x86_64-linux-gnu/15/collect2 -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/cck1LbZc.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_9bf20 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_9bf20.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_f35af' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_f35af.']
+        link line: [ /usr/libexec/gcc/x86_64-linux-gnu/15/collect2 -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccHPNWEj.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_f35af /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_f35af.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
           arg [/usr/libexec/gcc/x86_64-linux-gnu/15/collect2] ==> ignore
           arg [-plugin] ==> ignore
           arg [/usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so] ==> ignore
           arg [-plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper] ==> ignore
-          arg [-plugin-opt=-fresolution=/tmp/cck1LbZc.res] ==> ignore
+          arg [-plugin-opt=-fresolution=/tmp/ccHPNWEj.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -2471,7 +2516,7 @@ events:
           arg [-znow] ==> ignore
           arg [-zrelro] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_9bf20] ==> ignore
+          arg [cmTC_f35af] ==> ignore
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o]
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o]
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o]
@@ -2486,7 +2531,7 @@ events:
           arg [-L/lib] ==> dir [/lib]
           arg [-L/usr/lib] ==> dir [/usr/lib]
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_9bf20.dir/CMakeCCompilerABI.c.o] ==> ignore
+          arg [CMakeFiles/cmTC_f35af.dir/CMakeCCompilerABI.c.o] ==> ignore
           arg [-lgcc] ==> lib [gcc]
           arg [--push-state] ==> ignore
           arg [--as-needed] ==> ignore
@@ -2501,7 +2546,7 @@ events:
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o]
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
         ignore line: [collect2 version 15.2.0]
-        ignore line: [/usr/bin/ld -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/cck1LbZc.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_9bf20 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_9bf20.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
+        ignore line: [/usr/bin/ld -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccHPNWEj.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_f35af /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_f35af.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
         linker tool for 'C': /usr/bin/ld
         collapse obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o] ==> [/usr/lib/x86_64-linux-gnu/Scrt1.o]
         collapse obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o] ==> [/usr/lib/x86_64-linux-gnu/crti.o]
@@ -2713,6 +2758,7 @@ events:
         - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git"
         - "/mnt/c/Users/nihar/AppData/Roaming/npm"
+        - "/snap/bin"
       CMAKE_INSTALL_PREFIX: "/usr/local"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "/usr/local"
@@ -2957,6 +3003,9 @@ events:
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/bin/"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/Scripts/"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/"
+      - "/snap/bin/bin/"
+      - "/snap/bin/Scripts/"
+      - "/snap/bin/"
       - "/usr/local/bin/bin/"
       - "/usr/local/bin/Scripts/"
       - "/usr/local/bin/"
@@ -4471,6 +4520,7 @@ events:
         - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git"
         - "/mnt/c/Users/nihar/AppData/Roaming/npm"
+        - "/snap/bin"
       CMAKE_INSTALL_PREFIX: "/usr/local"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "/usr/local"
@@ -4493,8 +4543,8 @@ events:
     checks:
       - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-6reI3A"
-      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-6reI3A"
+      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-ZUcqik"
+      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-ZUcqik"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -4503,17 +4553,17 @@ events:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-6reI3A'
+        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-ZUcqik'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_7257a/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_7257a.dir/build.make CMakeFiles/cmTC_7257a.dir/build
-        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-6reI3A'
-        Building C object CMakeFiles/cmTC_7257a.dir/src.c.o
-        /usr/bin/cc -DCMAKE_HAVE_LIBC_PTHREAD   -o CMakeFiles/cmTC_7257a.dir/src.c.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-6reI3A/src.c
-        Linking C executable cmTC_7257a
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7257a.dir/link.txt --verbose=1
-        /usr/bin/cc CMakeFiles/cmTC_7257a.dir/src.c.o -o cmTC_7257a
-        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-6reI3A'
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_be4f2/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_be4f2.dir/build.make CMakeFiles/cmTC_be4f2.dir/build
+        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-ZUcqik'
+        Building C object CMakeFiles/cmTC_be4f2.dir/src.c.o
+        /usr/bin/cc -DCMAKE_HAVE_LIBC_PTHREAD   -o CMakeFiles/cmTC_be4f2.dir/src.c.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-ZUcqik/src.c
+        Linking C executable cmTC_be4f2
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_be4f2.dir/link.txt --verbose=1
+        /usr/bin/cc CMakeFiles/cmTC_be4f2.dir/src.c.o -o cmTC_be4f2
+        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-ZUcqik'
         
       exitCode: 0
   -
@@ -4563,6 +4613,7 @@ events:
       - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/"
+      - "/snap/bin/"
       - "/usr/local/bin/"
       - "/usr/local/sbin/"
       - "/usr/local/"
@@ -4609,6 +4660,7 @@ events:
       - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin/FileCheck"
       - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/FileCheck"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/FileCheck"
+      - "/snap/bin/FileCheck"
       - "/usr/local/bin/FileCheck"
       - "/usr/local/sbin/FileCheck"
       - "/usr/local/FileCheck"
@@ -4658,6 +4710,7 @@ events:
         - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git"
         - "/mnt/c/Users/nihar/AppData/Roaming/npm"
+        - "/snap/bin"
       CMAKE_INSTALL_PREFIX: "/usr/local"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "/usr/local"
@@ -4716,6 +4769,7 @@ events:
       - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/"
+      - "/snap/bin/"
       - "/usr/local/bin/"
       - "/usr/local/sbin/"
       - "/usr/local/"
@@ -4769,6 +4823,7 @@ events:
         - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git"
         - "/mnt/c/Users/nihar/AppData/Roaming/npm"
+        - "/snap/bin"
       CMAKE_INSTALL_PREFIX: "/usr/local"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "/usr/local"
@@ -4787,8 +4842,8 @@ events:
     checks:
       - "Looking for shm_open in rt"
     directories:
-      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-VAmHUR"
-      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-VAmHUR"
+      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-b1YDoh"
+      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-b1YDoh"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g -O0 -fsanitize=address,undefined"
@@ -4798,17 +4853,17 @@ events:
       variable: "HAVE_LIB_RT"
       cached: true
       stdout: |
-        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-VAmHUR'
+        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-b1YDoh'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_9ccdf/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_9ccdf.dir/build.make CMakeFiles/cmTC_9ccdf.dir/build
-        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-VAmHUR'
-        Building CXX object CMakeFiles/cmTC_9ccdf.dir/CheckFunctionExists.cxx.o
-        /usr/bin/c++   -DCHECK_FUNCTION_EXISTS=shm_open -std=gnu++17 -o CMakeFiles/cmTC_9ccdf.dir/CheckFunctionExists.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-VAmHUR/CheckFunctionExists.cxx
-        Linking CXX executable cmTC_9ccdf
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9ccdf.dir/link.txt --verbose=1
-        /usr/bin/c++  -DCHECK_FUNCTION_EXISTS=shm_open CMakeFiles/cmTC_9ccdf.dir/CheckFunctionExists.cxx.o -o cmTC_9ccdf  -lrt
-        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-VAmHUR'
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_3221e/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_3221e.dir/build.make CMakeFiles/cmTC_3221e.dir/build
+        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-b1YDoh'
+        Building CXX object CMakeFiles/cmTC_3221e.dir/CheckFunctionExists.cxx.o
+        /usr/bin/c++   -DCHECK_FUNCTION_EXISTS=shm_open -std=gnu++17 -o CMakeFiles/cmTC_3221e.dir/CheckFunctionExists.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-b1YDoh/CheckFunctionExists.cxx
+        Linking CXX executable cmTC_3221e
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3221e.dir/link.txt --verbose=1
+        /usr/bin/c++  -DCHECK_FUNCTION_EXISTS=shm_open CMakeFiles/cmTC_3221e.dir/CheckFunctionExists.cxx.o -o cmTC_3221e  -lrt
+        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-b1YDoh'
         
       exitCode: 0
   -
@@ -4822,8 +4877,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_WALL"
     directories:
-      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-nUm6Pl"
-      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-nUm6Pl"
+      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-K3qqQH"
+      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-K3qqQH"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g -O0 -fsanitize=address,undefined"
@@ -4833,17 +4888,17 @@ events:
       variable: "HAVE_CXX_FLAG_WALL"
       cached: true
       stdout: |
-        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-nUm6Pl'
+        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-K3qqQH'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_f9881/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_f9881.dir/build.make CMakeFiles/cmTC_f9881.dir/build
-        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-nUm6Pl'
-        Building CXX object CMakeFiles/cmTC_f9881.dir/src.cxx.o
-        /usr/bin/c++ -DHAVE_CXX_FLAG_WALL  -Wall -std=c++11   -Wall -o CMakeFiles/cmTC_f9881.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-nUm6Pl/src.cxx
-        Linking CXX executable cmTC_f9881
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f9881.dir/link.txt --verbose=1
-        /usr/bin/c++   -Wall CMakeFiles/cmTC_f9881.dir/src.cxx.o -o cmTC_f9881
-        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-nUm6Pl'
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_a0452/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_a0452.dir/build.make CMakeFiles/cmTC_a0452.dir/build
+        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-K3qqQH'
+        Building CXX object CMakeFiles/cmTC_a0452.dir/src.cxx.o
+        /usr/bin/c++ -DHAVE_CXX_FLAG_WALL  -Wall -std=c++11   -Wall -o CMakeFiles/cmTC_a0452.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-K3qqQH/src.cxx
+        Linking CXX executable cmTC_a0452
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a0452.dir/link.txt --verbose=1
+        /usr/bin/c++   -Wall CMakeFiles/cmTC_a0452.dir/src.cxx.o -o cmTC_a0452
+        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-K3qqQH'
         
       exitCode: 0
   -
@@ -4857,8 +4912,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_WEXTRA"
     directories:
-      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-nfo6MC"
-      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-nfo6MC"
+      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-cEpyQR"
+      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-cEpyQR"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall"
       CMAKE_CXX_FLAGS_DEBUG: "-g -O0 -fsanitize=address,undefined"
@@ -4868,17 +4923,17 @@ events:
       variable: "HAVE_CXX_FLAG_WEXTRA"
       cached: true
       stdout: |
-        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-nfo6MC'
+        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-cEpyQR'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_bb2cd/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_bb2cd.dir/build.make CMakeFiles/cmTC_bb2cd.dir/build
-        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-nfo6MC'
-        Building CXX object CMakeFiles/cmTC_bb2cd.dir/src.cxx.o
-        /usr/bin/c++ -DHAVE_CXX_FLAG_WEXTRA  -Wall  -Wextra -std=c++11   -Wextra -o CMakeFiles/cmTC_bb2cd.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-nfo6MC/src.cxx
-        Linking CXX executable cmTC_bb2cd
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bb2cd.dir/link.txt --verbose=1
-        /usr/bin/c++   -Wall  -Wextra CMakeFiles/cmTC_bb2cd.dir/src.cxx.o -o cmTC_bb2cd
-        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-nfo6MC'
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_ffc79/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_ffc79.dir/build.make CMakeFiles/cmTC_ffc79.dir/build
+        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-cEpyQR'
+        Building CXX object CMakeFiles/cmTC_ffc79.dir/src.cxx.o
+        /usr/bin/c++ -DHAVE_CXX_FLAG_WEXTRA  -Wall  -Wextra -std=c++11   -Wextra -o CMakeFiles/cmTC_ffc79.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-cEpyQR/src.cxx
+        Linking CXX executable cmTC_ffc79
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ffc79.dir/link.txt --verbose=1
+        /usr/bin/c++   -Wall  -Wextra CMakeFiles/cmTC_ffc79.dir/src.cxx.o -o cmTC_ffc79
+        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-cEpyQR'
         
       exitCode: 0
   -
@@ -4892,8 +4947,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_WSHADOW"
     directories:
-      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-XKrKZo"
-      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-XKrKZo"
+      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-x8Kek3"
+      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-x8Kek3"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra"
       CMAKE_CXX_FLAGS_DEBUG: "-g -O0 -fsanitize=address,undefined"
@@ -4903,17 +4958,17 @@ events:
       variable: "HAVE_CXX_FLAG_WSHADOW"
       cached: true
       stdout: |
-        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-XKrKZo'
+        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-x8Kek3'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_b5000/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_b5000.dir/build.make CMakeFiles/cmTC_b5000.dir/build
-        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-XKrKZo'
-        Building CXX object CMakeFiles/cmTC_b5000.dir/src.cxx.o
-        /usr/bin/c++ -DHAVE_CXX_FLAG_WSHADOW  -Wall  -Wextra  -Wshadow -std=c++11   -Wshadow -o CMakeFiles/cmTC_b5000.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-XKrKZo/src.cxx
-        Linking CXX executable cmTC_b5000
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b5000.dir/link.txt --verbose=1
-        /usr/bin/c++   -Wall  -Wextra  -Wshadow CMakeFiles/cmTC_b5000.dir/src.cxx.o -o cmTC_b5000
-        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-XKrKZo'
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_d6c21/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_d6c21.dir/build.make CMakeFiles/cmTC_d6c21.dir/build
+        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-x8Kek3'
+        Building CXX object CMakeFiles/cmTC_d6c21.dir/src.cxx.o
+        /usr/bin/c++ -DHAVE_CXX_FLAG_WSHADOW  -Wall  -Wextra  -Wshadow -std=c++11   -Wshadow -o CMakeFiles/cmTC_d6c21.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-x8Kek3/src.cxx
+        Linking CXX executable cmTC_d6c21
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d6c21.dir/link.txt --verbose=1
+        /usr/bin/c++   -Wall  -Wextra  -Wshadow CMakeFiles/cmTC_d6c21.dir/src.cxx.o -o cmTC_d6c21
+        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-x8Kek3'
         
       exitCode: 0
   -
@@ -4927,8 +4982,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_WFLOAT_EQUAL"
     directories:
-      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-SMppQm"
-      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-SMppQm"
+      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-mUh2Kb"
+      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-mUh2Kb"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow"
       CMAKE_CXX_FLAGS_DEBUG: "-g -O0 -fsanitize=address,undefined"
@@ -4938,17 +4993,17 @@ events:
       variable: "HAVE_CXX_FLAG_WFLOAT_EQUAL"
       cached: true
       stdout: |
-        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-SMppQm'
+        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-mUh2Kb'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_f38c4/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_f38c4.dir/build.make CMakeFiles/cmTC_f38c4.dir/build
-        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-SMppQm'
-        Building CXX object CMakeFiles/cmTC_f38c4.dir/src.cxx.o
-        /usr/bin/c++ -DHAVE_CXX_FLAG_WFLOAT_EQUAL  -Wall  -Wextra  -Wshadow  -Wfloat-equal -std=c++11   -Wfloat-equal -o CMakeFiles/cmTC_f38c4.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-SMppQm/src.cxx
-        Linking CXX executable cmTC_f38c4
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f38c4.dir/link.txt --verbose=1
-        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal CMakeFiles/cmTC_f38c4.dir/src.cxx.o -o cmTC_f38c4
-        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-SMppQm'
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_6d9d7/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_6d9d7.dir/build.make CMakeFiles/cmTC_6d9d7.dir/build
+        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-mUh2Kb'
+        Building CXX object CMakeFiles/cmTC_6d9d7.dir/src.cxx.o
+        /usr/bin/c++ -DHAVE_CXX_FLAG_WFLOAT_EQUAL  -Wall  -Wextra  -Wshadow  -Wfloat-equal -std=c++11   -Wfloat-equal -o CMakeFiles/cmTC_6d9d7.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-mUh2Kb/src.cxx
+        Linking CXX executable cmTC_6d9d7
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6d9d7.dir/link.txt --verbose=1
+        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal CMakeFiles/cmTC_6d9d7.dir/src.cxx.o -o cmTC_6d9d7
+        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-mUh2Kb'
         
       exitCode: 0
   -
@@ -4962,8 +5017,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_WOLD_STYLE_CAST"
     directories:
-      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-PZrJog"
-      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-PZrJog"
+      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-OIOQaN"
+      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-OIOQaN"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow  -Wfloat-equal"
       CMAKE_CXX_FLAGS_DEBUG: "-g -O0 -fsanitize=address,undefined"
@@ -4973,17 +5028,17 @@ events:
       variable: "HAVE_CXX_FLAG_WOLD_STYLE_CAST"
       cached: true
       stdout: |
-        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-PZrJog'
+        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-OIOQaN'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_08cca/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_08cca.dir/build.make CMakeFiles/cmTC_08cca.dir/build
-        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-PZrJog'
-        Building CXX object CMakeFiles/cmTC_08cca.dir/src.cxx.o
-        /usr/bin/c++ -DHAVE_CXX_FLAG_WOLD_STYLE_CAST  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast -std=c++11   -Wold-style-cast -o CMakeFiles/cmTC_08cca.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-PZrJog/src.cxx
-        Linking CXX executable cmTC_08cca
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_08cca.dir/link.txt --verbose=1
-        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast CMakeFiles/cmTC_08cca.dir/src.cxx.o -o cmTC_08cca
-        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-PZrJog'
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_c1847/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_c1847.dir/build.make CMakeFiles/cmTC_c1847.dir/build
+        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-OIOQaN'
+        Building CXX object CMakeFiles/cmTC_c1847.dir/src.cxx.o
+        /usr/bin/c++ -DHAVE_CXX_FLAG_WOLD_STYLE_CAST  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast -std=c++11   -Wold-style-cast -o CMakeFiles/cmTC_c1847.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-OIOQaN/src.cxx
+        Linking CXX executable cmTC_c1847
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c1847.dir/link.txt --verbose=1
+        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast CMakeFiles/cmTC_c1847.dir/src.cxx.o -o cmTC_c1847
+        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-OIOQaN'
         
       exitCode: 0
   -
@@ -4997,8 +5052,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_WERROR"
     directories:
-      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-Bdk93n"
-      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-Bdk93n"
+      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-aiko9r"
+      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-aiko9r"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast"
       CMAKE_CXX_FLAGS_DEBUG: "-g -O0 -fsanitize=address,undefined"
@@ -5008,17 +5063,17 @@ events:
       variable: "HAVE_CXX_FLAG_WERROR"
       cached: true
       stdout: |
-        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-Bdk93n'
+        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-aiko9r'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_47b0d/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_47b0d.dir/build.make CMakeFiles/cmTC_47b0d.dir/build
-        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-Bdk93n'
-        Building CXX object CMakeFiles/cmTC_47b0d.dir/src.cxx.o
-        /usr/bin/c++ -DHAVE_CXX_FLAG_WERROR  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror -std=c++11   -Werror -o CMakeFiles/cmTC_47b0d.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-Bdk93n/src.cxx
-        Linking CXX executable cmTC_47b0d
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_47b0d.dir/link.txt --verbose=1
-        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror CMakeFiles/cmTC_47b0d.dir/src.cxx.o -o cmTC_47b0d
-        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-Bdk93n'
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_ed429/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_ed429.dir/build.make CMakeFiles/cmTC_ed429.dir/build
+        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-aiko9r'
+        Building CXX object CMakeFiles/cmTC_ed429.dir/src.cxx.o
+        /usr/bin/c++ -DHAVE_CXX_FLAG_WERROR  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror -std=c++11   -Werror -o CMakeFiles/cmTC_ed429.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-aiko9r/src.cxx
+        Linking CXX executable cmTC_ed429
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ed429.dir/link.txt --verbose=1
+        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror CMakeFiles/cmTC_ed429.dir/src.cxx.o -o cmTC_ed429
+        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-aiko9r'
         
       exitCode: 0
   -
@@ -5032,8 +5087,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_WSUGGEST_OVERRIDE"
     directories:
-      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-o5uOGE"
-      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-o5uOGE"
+      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-Dhd3Y0"
+      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-Dhd3Y0"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror"
       CMAKE_CXX_FLAGS_DEBUG: "-g -O0 -fsanitize=address,undefined"
@@ -5043,17 +5098,17 @@ events:
       variable: "HAVE_CXX_FLAG_WSUGGEST_OVERRIDE"
       cached: true
       stdout: |
-        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-o5uOGE'
+        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-Dhd3Y0'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_c7652/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_c7652.dir/build.make CMakeFiles/cmTC_c7652.dir/build
-        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-o5uOGE'
-        Building CXX object CMakeFiles/cmTC_c7652.dir/src.cxx.o
-        /usr/bin/c++ -DHAVE_CXX_FLAG_WSUGGEST_OVERRIDE  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override -std=c++11   -Wsuggest-override -o CMakeFiles/cmTC_c7652.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-o5uOGE/src.cxx
-        Linking CXX executable cmTC_c7652
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c7652.dir/link.txt --verbose=1
-        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override CMakeFiles/cmTC_c7652.dir/src.cxx.o -o cmTC_c7652
-        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-o5uOGE'
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_3138e/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_3138e.dir/build.make CMakeFiles/cmTC_3138e.dir/build
+        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-Dhd3Y0'
+        Building CXX object CMakeFiles/cmTC_3138e.dir/src.cxx.o
+        /usr/bin/c++ -DHAVE_CXX_FLAG_WSUGGEST_OVERRIDE  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override -std=c++11   -Wsuggest-override -o CMakeFiles/cmTC_3138e.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-Dhd3Y0/src.cxx
+        Linking CXX executable cmTC_3138e
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3138e.dir/link.txt --verbose=1
+        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override CMakeFiles/cmTC_3138e.dir/src.cxx.o -o cmTC_3138e
+        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-Dhd3Y0'
         
       exitCode: 0
   -
@@ -5067,8 +5122,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_PEDANTIC"
     directories:
-      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-0nB3CS"
-      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-0nB3CS"
+      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-4TS75F"
+      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-4TS75F"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override"
       CMAKE_CXX_FLAGS_DEBUG: "-g -O0 -fsanitize=address,undefined"
@@ -5078,17 +5133,17 @@ events:
       variable: "HAVE_CXX_FLAG_PEDANTIC"
       cached: true
       stdout: |
-        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-0nB3CS'
+        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-4TS75F'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_f76a4/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_f76a4.dir/build.make CMakeFiles/cmTC_f76a4.dir/build
-        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-0nB3CS'
-        Building CXX object CMakeFiles/cmTC_f76a4.dir/src.cxx.o
-        /usr/bin/c++ -DHAVE_CXX_FLAG_PEDANTIC  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic -std=c++11   -pedantic -o CMakeFiles/cmTC_f76a4.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-0nB3CS/src.cxx
-        Linking CXX executable cmTC_f76a4
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f76a4.dir/link.txt --verbose=1
-        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic CMakeFiles/cmTC_f76a4.dir/src.cxx.o -o cmTC_f76a4
-        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-0nB3CS'
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_cf77c/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_cf77c.dir/build.make CMakeFiles/cmTC_cf77c.dir/build
+        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-4TS75F'
+        Building CXX object CMakeFiles/cmTC_cf77c.dir/src.cxx.o
+        /usr/bin/c++ -DHAVE_CXX_FLAG_PEDANTIC  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic -std=c++11   -pedantic -o CMakeFiles/cmTC_cf77c.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-4TS75F/src.cxx
+        Linking CXX executable cmTC_cf77c
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cf77c.dir/link.txt --verbose=1
+        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic CMakeFiles/cmTC_cf77c.dir/src.cxx.o -o cmTC_cf77c
+        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-4TS75F'
         
       exitCode: 0
   -
@@ -5102,8 +5157,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_PEDANTIC_ERRORS"
     directories:
-      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-W71D8x"
-      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-W71D8x"
+      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-P3SJK8"
+      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-P3SJK8"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic"
       CMAKE_CXX_FLAGS_DEBUG: "-g -O0 -fsanitize=address,undefined"
@@ -5113,17 +5168,17 @@ events:
       variable: "HAVE_CXX_FLAG_PEDANTIC_ERRORS"
       cached: true
       stdout: |
-        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-W71D8x'
+        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-P3SJK8'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_0da88/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_0da88.dir/build.make CMakeFiles/cmTC_0da88.dir/build
-        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-W71D8x'
-        Building CXX object CMakeFiles/cmTC_0da88.dir/src.cxx.o
-        /usr/bin/c++ -DHAVE_CXX_FLAG_PEDANTIC_ERRORS  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors -std=c++11   -pedantic-errors -o CMakeFiles/cmTC_0da88.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-W71D8x/src.cxx
-        Linking CXX executable cmTC_0da88
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0da88.dir/link.txt --verbose=1
-        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors CMakeFiles/cmTC_0da88.dir/src.cxx.o -o cmTC_0da88
-        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-W71D8x'
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_0eea6/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_0eea6.dir/build.make CMakeFiles/cmTC_0eea6.dir/build
+        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-P3SJK8'
+        Building CXX object CMakeFiles/cmTC_0eea6.dir/src.cxx.o
+        /usr/bin/c++ -DHAVE_CXX_FLAG_PEDANTIC_ERRORS  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors -std=c++11   -pedantic-errors -o CMakeFiles/cmTC_0eea6.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-P3SJK8/src.cxx
+        Linking CXX executable cmTC_0eea6
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0eea6.dir/link.txt --verbose=1
+        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors CMakeFiles/cmTC_0eea6.dir/src.cxx.o -o cmTC_0eea6
+        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-P3SJK8'
         
       exitCode: 0
   -
@@ -5137,8 +5192,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_WSHORTEN_64_TO_32"
     directories:
-      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-wAM2lQ"
-      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-wAM2lQ"
+      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-FdecRO"
+      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-FdecRO"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors"
       CMAKE_CXX_FLAGS_DEBUG: "-g -O0 -fsanitize=address,undefined"
@@ -5148,18 +5203,18 @@ events:
       variable: "HAVE_CXX_FLAG_WSHORTEN_64_TO_32"
       cached: true
       stdout: |
-        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-wAM2lQ'
+        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-FdecRO'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_ee1df/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_ee1df.dir/build.make CMakeFiles/cmTC_ee1df.dir/build
-        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-wAM2lQ'
-        Building CXX object CMakeFiles/cmTC_ee1df.dir/src.cxx.o
-        /usr/bin/c++ -DHAVE_CXX_FLAG_WSHORTEN_64_TO_32  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32 -std=c++11   -Wshorten-64-to-32 -o CMakeFiles/cmTC_ee1df.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-wAM2lQ/src.cxx
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_3bb6b/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_3bb6b.dir/build.make CMakeFiles/cmTC_3bb6b.dir/build
+        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-FdecRO'
+        Building CXX object CMakeFiles/cmTC_3bb6b.dir/src.cxx.o
+        /usr/bin/c++ -DHAVE_CXX_FLAG_WSHORTEN_64_TO_32  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32 -std=c++11   -Wshorten-64-to-32 -o CMakeFiles/cmTC_3bb6b.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-FdecRO/src.cxx
         c++: error: unrecognized command-line option '-Wshorten-64-to-32'
         c++: error: unrecognized command-line option '-Wshorten-64-to-32'
-        gmake[1]: *** [CMakeFiles/cmTC_ee1df.dir/build.make:81: CMakeFiles/cmTC_ee1df.dir/src.cxx.o] Error 1
-        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-wAM2lQ'
-        gmake: *** [Makefile:134: cmTC_ee1df/fast] Error 2
+        gmake[1]: *** [CMakeFiles/cmTC_3bb6b.dir/build.make:81: CMakeFiles/cmTC_3bb6b.dir/src.cxx.o] Error 1
+        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-FdecRO'
+        gmake: *** [Makefile:134: cmTC_3bb6b/fast] Error 2
         
       exitCode: 2
   -
@@ -5173,8 +5228,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_FSTRICT_ALIASING"
     directories:
-      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-R3OgKV"
-      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-R3OgKV"
+      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-rm6Skx"
+      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-rm6Skx"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors"
       CMAKE_CXX_FLAGS_DEBUG: "-g -O0 -fsanitize=address,undefined"
@@ -5184,17 +5239,17 @@ events:
       variable: "HAVE_CXX_FLAG_FSTRICT_ALIASING"
       cached: true
       stdout: |
-        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-R3OgKV'
+        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-rm6Skx'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_9aee6/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_9aee6.dir/build.make CMakeFiles/cmTC_9aee6.dir/build
-        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-R3OgKV'
-        Building CXX object CMakeFiles/cmTC_9aee6.dir/src.cxx.o
-        /usr/bin/c++ -DHAVE_CXX_FLAG_FSTRICT_ALIASING  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing -std=c++11   -fstrict-aliasing -o CMakeFiles/cmTC_9aee6.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-R3OgKV/src.cxx
-        Linking CXX executable cmTC_9aee6
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9aee6.dir/link.txt --verbose=1
-        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing CMakeFiles/cmTC_9aee6.dir/src.cxx.o -o cmTC_9aee6
-        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-R3OgKV'
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_f9a9e/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_f9a9e.dir/build.make CMakeFiles/cmTC_f9a9e.dir/build
+        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-rm6Skx'
+        Building CXX object CMakeFiles/cmTC_f9a9e.dir/src.cxx.o
+        /usr/bin/c++ -DHAVE_CXX_FLAG_FSTRICT_ALIASING  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing -std=c++11   -fstrict-aliasing -o CMakeFiles/cmTC_f9a9e.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-rm6Skx/src.cxx
+        Linking CXX executable cmTC_f9a9e
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f9a9e.dir/link.txt --verbose=1
+        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing CMakeFiles/cmTC_f9a9e.dir/src.cxx.o -o cmTC_f9a9e
+        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-rm6Skx'
         
       exitCode: 0
   -
@@ -5208,8 +5263,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_WNO_DEPRECATED_DECLARATIONS"
     directories:
-      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-1y31iz"
-      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-1y31iz"
+      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-6tee6W"
+      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-6tee6W"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing"
       CMAKE_CXX_FLAGS_DEBUG: "-g -O0 -fsanitize=address,undefined"
@@ -5219,17 +5274,17 @@ events:
       variable: "HAVE_CXX_FLAG_WNO_DEPRECATED_DECLARATIONS"
       cached: true
       stdout: |
-        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-1y31iz'
+        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-6tee6W'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_c03c3/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_c03c3.dir/build.make CMakeFiles/cmTC_c03c3.dir/build
-        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-1y31iz'
-        Building CXX object CMakeFiles/cmTC_c03c3.dir/src.cxx.o
-        /usr/bin/c++ -DHAVE_CXX_FLAG_WNO_DEPRECATED_DECLARATIONS  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations -std=c++11   -Wno-deprecated-declarations -o CMakeFiles/cmTC_c03c3.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-1y31iz/src.cxx
-        Linking CXX executable cmTC_c03c3
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c03c3.dir/link.txt --verbose=1
-        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations CMakeFiles/cmTC_c03c3.dir/src.cxx.o -o cmTC_c03c3
-        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-1y31iz'
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_8d23e/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_8d23e.dir/build.make CMakeFiles/cmTC_8d23e.dir/build
+        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-6tee6W'
+        Building CXX object CMakeFiles/cmTC_8d23e.dir/src.cxx.o
+        /usr/bin/c++ -DHAVE_CXX_FLAG_WNO_DEPRECATED_DECLARATIONS  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations -std=c++11   -Wno-deprecated-declarations -o CMakeFiles/cmTC_8d23e.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-6tee6W/src.cxx
+        Linking CXX executable cmTC_8d23e
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8d23e.dir/link.txt --verbose=1
+        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations CMakeFiles/cmTC_8d23e.dir/src.cxx.o -o cmTC_8d23e
+        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-6tee6W'
         
       exitCode: 0
   -
@@ -5243,8 +5298,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_WNO_DEPRECATED"
     directories:
-      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-gUAH5k"
-      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-gUAH5k"
+      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-ejELN8"
+      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-ejELN8"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations"
       CMAKE_CXX_FLAGS_DEBUG: "-g -O0 -fsanitize=address,undefined"
@@ -5254,17 +5309,17 @@ events:
       variable: "HAVE_CXX_FLAG_WNO_DEPRECATED"
       cached: true
       stdout: |
-        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-gUAH5k'
+        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-ejELN8'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_a967e/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_a967e.dir/build.make CMakeFiles/cmTC_a967e.dir/build
-        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-gUAH5k'
-        Building CXX object CMakeFiles/cmTC_a967e.dir/src.cxx.o
-        /usr/bin/c++ -DHAVE_CXX_FLAG_WNO_DEPRECATED  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated -std=c++11   -Wno-deprecated -o CMakeFiles/cmTC_a967e.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-gUAH5k/src.cxx
-        Linking CXX executable cmTC_a967e
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a967e.dir/link.txt --verbose=1
-        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated CMakeFiles/cmTC_a967e.dir/src.cxx.o -o cmTC_a967e
-        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-gUAH5k'
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_a3b62/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_a3b62.dir/build.make CMakeFiles/cmTC_a3b62.dir/build
+        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-ejELN8'
+        Building CXX object CMakeFiles/cmTC_a3b62.dir/src.cxx.o
+        /usr/bin/c++ -DHAVE_CXX_FLAG_WNO_DEPRECATED  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated -std=c++11   -Wno-deprecated -o CMakeFiles/cmTC_a3b62.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-ejELN8/src.cxx
+        Linking CXX executable cmTC_a3b62
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a3b62.dir/link.txt --verbose=1
+        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated CMakeFiles/cmTC_a3b62.dir/src.cxx.o -o cmTC_a3b62
+        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-ejELN8'
         
       exitCode: 0
   -
@@ -5278,8 +5333,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_WSTRICT_ALIASING"
     directories:
-      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-5cyZhN"
-      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-5cyZhN"
+      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-lyzpOT"
+      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-lyzpOT"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated"
       CMAKE_CXX_FLAGS_DEBUG: "-g -O0 -fsanitize=address,undefined"
@@ -5289,17 +5344,17 @@ events:
       variable: "HAVE_CXX_FLAG_WSTRICT_ALIASING"
       cached: true
       stdout: |
-        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-5cyZhN'
+        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-lyzpOT'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_1228e/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_1228e.dir/build.make CMakeFiles/cmTC_1228e.dir/build
-        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-5cyZhN'
-        Building CXX object CMakeFiles/cmTC_1228e.dir/src.cxx.o
-        /usr/bin/c++ -DHAVE_CXX_FLAG_WSTRICT_ALIASING  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing -std=c++11   -Wstrict-aliasing -o CMakeFiles/cmTC_1228e.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-5cyZhN/src.cxx
-        Linking CXX executable cmTC_1228e
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1228e.dir/link.txt --verbose=1
-        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing CMakeFiles/cmTC_1228e.dir/src.cxx.o -o cmTC_1228e
-        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-5cyZhN'
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_96ffb/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_96ffb.dir/build.make CMakeFiles/cmTC_96ffb.dir/build
+        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-lyzpOT'
+        Building CXX object CMakeFiles/cmTC_96ffb.dir/src.cxx.o
+        /usr/bin/c++ -DHAVE_CXX_FLAG_WSTRICT_ALIASING  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing -std=c++11   -Wstrict-aliasing -o CMakeFiles/cmTC_96ffb.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-lyzpOT/src.cxx
+        Linking CXX executable cmTC_96ffb
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_96ffb.dir/link.txt --verbose=1
+        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing CMakeFiles/cmTC_96ffb.dir/src.cxx.o -o cmTC_96ffb
+        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-lyzpOT'
         
       exitCode: 0
   -
@@ -5313,8 +5368,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_WD654"
     directories:
-      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-4I45gZ"
-      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-4I45gZ"
+      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-cXpTN3"
+      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-cXpTN3"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing"
       CMAKE_CXX_FLAGS_DEBUG: "-g -O0 -fsanitize=address,undefined"
@@ -5324,18 +5379,18 @@ events:
       variable: "HAVE_CXX_FLAG_WD654"
       cached: true
       stdout: |
-        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-4I45gZ'
+        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-cXpTN3'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_f3321/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_f3321.dir/build.make CMakeFiles/cmTC_f3321.dir/build
-        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-4I45gZ'
-        Building CXX object CMakeFiles/cmTC_f3321.dir/src.cxx.o
-        /usr/bin/c++ -DHAVE_CXX_FLAG_WD654  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -wd654 -std=c++11   -wd654 -o CMakeFiles/cmTC_f3321.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-4I45gZ/src.cxx
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_e1edc/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_e1edc.dir/build.make CMakeFiles/cmTC_e1edc.dir/build
+        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-cXpTN3'
+        Building CXX object CMakeFiles/cmTC_e1edc.dir/src.cxx.o
+        /usr/bin/c++ -DHAVE_CXX_FLAG_WD654  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -wd654 -std=c++11   -wd654 -o CMakeFiles/cmTC_e1edc.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-cXpTN3/src.cxx
         c++: error: unrecognized command-line option '-wd654'
         c++: error: unrecognized command-line option '-wd654'
-        gmake[1]: *** [CMakeFiles/cmTC_f3321.dir/build.make:81: CMakeFiles/cmTC_f3321.dir/src.cxx.o] Error 1
-        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-4I45gZ'
-        gmake: *** [Makefile:134: cmTC_f3321/fast] Error 2
+        gmake[1]: *** [CMakeFiles/cmTC_e1edc.dir/build.make:81: CMakeFiles/cmTC_e1edc.dir/src.cxx.o] Error 1
+        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-cXpTN3'
+        gmake: *** [Makefile:134: cmTC_e1edc/fast] Error 2
         
       exitCode: 2
   -
@@ -5349,8 +5404,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_WTHREAD_SAFETY"
     directories:
-      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-0LnWRu"
-      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-0LnWRu"
+      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-O1ORJU"
+      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-O1ORJU"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing"
       CMAKE_CXX_FLAGS_DEBUG: "-g -O0 -fsanitize=address,undefined"
@@ -5360,18 +5415,18 @@ events:
       variable: "HAVE_CXX_FLAG_WTHREAD_SAFETY"
       cached: true
       stdout: |
-        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-0LnWRu'
+        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-O1ORJU'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_0e17b/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_0e17b.dir/build.make CMakeFiles/cmTC_0e17b.dir/build
-        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-0LnWRu'
-        Building CXX object CMakeFiles/cmTC_0e17b.dir/src.cxx.o
-        /usr/bin/c++ -DHAVE_CXX_FLAG_WTHREAD_SAFETY  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -Wthread-safety -std=c++11   -Wthread-safety -o CMakeFiles/cmTC_0e17b.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-0LnWRu/src.cxx
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_e6298/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_e6298.dir/build.make CMakeFiles/cmTC_e6298.dir/build
+        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-O1ORJU'
+        Building CXX object CMakeFiles/cmTC_e6298.dir/src.cxx.o
+        /usr/bin/c++ -DHAVE_CXX_FLAG_WTHREAD_SAFETY  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -Wthread-safety -std=c++11   -Wthread-safety -o CMakeFiles/cmTC_e6298.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-O1ORJU/src.cxx
         c++: error: unrecognized command-line option '-Wthread-safety'
         c++: error: unrecognized command-line option '-Wthread-safety'
-        gmake[1]: *** [CMakeFiles/cmTC_0e17b.dir/build.make:81: CMakeFiles/cmTC_0e17b.dir/src.cxx.o] Error 1
-        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-0LnWRu'
-        gmake: *** [Makefile:134: cmTC_0e17b/fast] Error 2
+        gmake[1]: *** [CMakeFiles/cmTC_e6298.dir/build.make:81: CMakeFiles/cmTC_e6298.dir/src.cxx.o] Error 1
+        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-O1ORJU'
+        gmake: *** [Makefile:134: cmTC_e6298/fast] Error 2
         
       exitCode: 2
   -
@@ -5385,8 +5440,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_COVERAGE"
     directories:
-      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-RYPlac"
-      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-RYPlac"
+      source: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-GprSpZ"
+      binary: "/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-GprSpZ"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing"
       CMAKE_CXX_FLAGS_DEBUG: "-g -O0 -fsanitize=address,undefined"
@@ -5396,17 +5451,17 @@ events:
       variable: "HAVE_CXX_FLAG_COVERAGE"
       cached: true
       stdout: |
-        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-RYPlac'
+        Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-GprSpZ'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_49373/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_49373.dir/build.make CMakeFiles/cmTC_49373.dir/build
-        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-RYPlac'
-        Building CXX object CMakeFiles/cmTC_49373.dir/src.cxx.o
-        /usr/bin/c++ -DHAVE_CXX_FLAG_COVERAGE  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  --coverage -std=c++11   --coverage -o CMakeFiles/cmTC_49373.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-RYPlac/src.cxx
-        Linking CXX executable cmTC_49373
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_49373.dir/link.txt --verbose=1
-        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  --coverage CMakeFiles/cmTC_49373.dir/src.cxx.o -o cmTC_49373
-        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-RYPlac'
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_b6a1f/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_b6a1f.dir/build.make CMakeFiles/cmTC_b6a1f.dir/build
+        gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-GprSpZ'
+        Building CXX object CMakeFiles/cmTC_b6a1f.dir/src.cxx.o
+        /usr/bin/c++ -DHAVE_CXX_FLAG_COVERAGE  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  --coverage -std=c++11   --coverage -o CMakeFiles/cmTC_b6a1f.dir/src.cxx.o -c /home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-GprSpZ/src.cxx
+        Linking CXX executable cmTC_b6a1f
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b6a1f.dir/link.txt --verbose=1
+        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  --coverage CMakeFiles/cmTC_b6a1f.dir/src.cxx.o -o cmTC_b6a1f
+        gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeScratch/TryCompile-GprSpZ'
         
       exitCode: 0
   -
@@ -5428,14 +5483,14 @@ events:
       stdout: |
         Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeTmp'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_c311a/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_c311a.dir/build.make CMakeFiles/cmTC_c311a.dir/build
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_17691/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_17691.dir/build.make CMakeFiles/cmTC_17691.dir/build
         gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeTmp'
-        Building CXX object CMakeFiles/cmTC_c311a.dir/std_regex.cpp.o
-        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -o CMakeFiles/cmTC_c311a.dir/std_regex.cpp.o -c /home/nihar/ann-engine/build/_deps/benchmark-src/cmake/std_regex.cpp
-        Linking CXX executable cmTC_c311a
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c311a.dir/link.txt --verbose=1
-        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  CMakeFiles/cmTC_c311a.dir/std_regex.cpp.o -o cmTC_c311a
+        Building CXX object CMakeFiles/cmTC_17691.dir/std_regex.cpp.o
+        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -o CMakeFiles/cmTC_17691.dir/std_regex.cpp.o -c /home/nihar/ann-engine/build/_deps/benchmark-src/cmake/std_regex.cpp
+        Linking CXX executable cmTC_17691
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_17691.dir/link.txt --verbose=1
+        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  CMakeFiles/cmTC_17691.dir/std_regex.cpp.o -o cmTC_17691
         gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeTmp'
         
       exitCode: 0
@@ -5463,18 +5518,18 @@ events:
       stdout: |
         Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeTmp'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_86ea8/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_86ea8.dir/build.make CMakeFiles/cmTC_86ea8.dir/build
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_ba199/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_ba199.dir/build.make CMakeFiles/cmTC_ba199.dir/build
         gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeTmp'
-        Building CXX object CMakeFiles/cmTC_86ea8.dir/gnu_posix_regex.cpp.o
-        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -o CMakeFiles/cmTC_86ea8.dir/gnu_posix_regex.cpp.o -c /home/nihar/ann-engine/build/_deps/benchmark-src/cmake/gnu_posix_regex.cpp
+        Building CXX object CMakeFiles/cmTC_ba199.dir/gnu_posix_regex.cpp.o
+        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -o CMakeFiles/cmTC_ba199.dir/gnu_posix_regex.cpp.o -c /home/nihar/ann-engine/build/_deps/benchmark-src/cmake/gnu_posix_regex.cpp
         /home/nihar/ann-engine/build/_deps/benchmark-src/cmake/gnu_posix_regex.cpp:1:10: fatal error: gnuregex.h: No such file or directory
             1 | #include <gnuregex.h>
               |          ^~~~~~~~~~~~
         compilation terminated.
-        gmake[1]: *** [CMakeFiles/cmTC_86ea8.dir/build.make:81: CMakeFiles/cmTC_86ea8.dir/gnu_posix_regex.cpp.o] Error 1
+        gmake[1]: *** [CMakeFiles/cmTC_ba199.dir/build.make:81: CMakeFiles/cmTC_ba199.dir/gnu_posix_regex.cpp.o] Error 1
         gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeTmp'
-        gmake: *** [Makefile:134: cmTC_86ea8/fast] Error 2
+        gmake: *** [Makefile:134: cmTC_ba199/fast] Error 2
         
       exitCode: 2
     runResult:
@@ -5499,14 +5554,14 @@ events:
       stdout: |
         Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeTmp'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_2ab1c/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_2ab1c.dir/build.make CMakeFiles/cmTC_2ab1c.dir/build
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_17684/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_17684.dir/build.make CMakeFiles/cmTC_17684.dir/build
         gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeTmp'
-        Building CXX object CMakeFiles/cmTC_2ab1c.dir/posix_regex.cpp.o
-        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -o CMakeFiles/cmTC_2ab1c.dir/posix_regex.cpp.o -c /home/nihar/ann-engine/build/_deps/benchmark-src/cmake/posix_regex.cpp
-        Linking CXX executable cmTC_2ab1c
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2ab1c.dir/link.txt --verbose=1
-        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  CMakeFiles/cmTC_2ab1c.dir/posix_regex.cpp.o -o cmTC_2ab1c
+        Building CXX object CMakeFiles/cmTC_17684.dir/posix_regex.cpp.o
+        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -o CMakeFiles/cmTC_17684.dir/posix_regex.cpp.o -c /home/nihar/ann-engine/build/_deps/benchmark-src/cmake/posix_regex.cpp
+        Linking CXX executable cmTC_17684
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_17684.dir/link.txt --verbose=1
+        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  CMakeFiles/cmTC_17684.dir/posix_regex.cpp.o -o cmTC_17684
         gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeTmp'
         
       exitCode: 0
@@ -5534,14 +5589,14 @@ events:
       stdout: |
         Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeTmp'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_38721/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_38721.dir/build.make CMakeFiles/cmTC_38721.dir/build
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_5dcea/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_5dcea.dir/build.make CMakeFiles/cmTC_5dcea.dir/build
         gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeTmp'
-        Building CXX object CMakeFiles/cmTC_38721.dir/steady_clock.cpp.o
-        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -o CMakeFiles/cmTC_38721.dir/steady_clock.cpp.o -c /home/nihar/ann-engine/build/_deps/benchmark-src/cmake/steady_clock.cpp
-        Linking CXX executable cmTC_38721
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_38721.dir/link.txt --verbose=1
-        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  CMakeFiles/cmTC_38721.dir/steady_clock.cpp.o -o cmTC_38721
+        Building CXX object CMakeFiles/cmTC_5dcea.dir/steady_clock.cpp.o
+        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -o CMakeFiles/cmTC_5dcea.dir/steady_clock.cpp.o -c /home/nihar/ann-engine/build/_deps/benchmark-src/cmake/steady_clock.cpp
+        Linking CXX executable cmTC_5dcea
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5dcea.dir/link.txt --verbose=1
+        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  CMakeFiles/cmTC_5dcea.dir/steady_clock.cpp.o -o cmTC_5dcea
         gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeTmp'
         
       exitCode: 0
@@ -5569,14 +5624,14 @@ events:
       stdout: |
         Change Dir: '/home/nihar/ann-engine/build/CMakeFiles/CMakeTmp'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_095fd/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_095fd.dir/build.make CMakeFiles/cmTC_095fd.dir/build
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_9813d/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_9813d.dir/build.make CMakeFiles/cmTC_9813d.dir/build
         gmake[1]: Entering directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeTmp'
-        Building CXX object CMakeFiles/cmTC_095fd.dir/pthread_affinity.cpp.o
-        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -o CMakeFiles/cmTC_095fd.dir/pthread_affinity.cpp.o -c /home/nihar/ann-engine/build/_deps/benchmark-src/cmake/pthread_affinity.cpp
-        Linking CXX executable cmTC_095fd
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_095fd.dir/link.txt --verbose=1
-        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  CMakeFiles/cmTC_095fd.dir/pthread_affinity.cpp.o -o cmTC_095fd
+        Building CXX object CMakeFiles/cmTC_9813d.dir/pthread_affinity.cpp.o
+        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -o CMakeFiles/cmTC_9813d.dir/pthread_affinity.cpp.o -c /home/nihar/ann-engine/build/_deps/benchmark-src/cmake/pthread_affinity.cpp
+        Linking CXX executable cmTC_9813d
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9813d.dir/link.txt --verbose=1
+        /usr/bin/c++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  CMakeFiles/cmTC_9813d.dir/pthread_affinity.cpp.o -o cmTC_9813d
         gmake[1]: Leaving directory '/home/nihar/ann-engine/build/CMakeFiles/CMakeTmp'
         
       exitCode: 0
@@ -5658,6 +5713,7 @@ events:
         - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git"
         - "/mnt/c/Users/nihar/AppData/Roaming/npm"
+        - "/snap/bin"
       CMAKE_INSTALL_PREFIX: "/usr/local"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "/usr/local"
@@ -5725,6 +5781,7 @@ events:
         - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git"
         - "/mnt/c/Users/nihar/AppData/Roaming/npm"
+        - "/snap/bin"
       CMAKE_INSTALL_PREFIX: "/usr/local"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "/usr/local"

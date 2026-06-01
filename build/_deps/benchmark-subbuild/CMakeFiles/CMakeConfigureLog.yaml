@@ -48,6 +48,7 @@ events:
       - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/"
       - "/mnt/c/Users/nihar/AppData/Roaming/npm/"
+      - "/snap/bin/"
     searched_directories:
       - "/usr/local/sbin/uname"
       - "/usr/local/bin/uname"
@@ -84,6 +85,7 @@ events:
         - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git"
         - "/mnt/c/Users/nihar/AppData/Roaming/npm"
+        - "/snap/bin"
   -
     kind: "message-v1"
     backtrace:
