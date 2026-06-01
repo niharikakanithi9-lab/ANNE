@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -march=native -DNDEBUG -Wl,--dependency-file=CMakeFiles/bench_query.dir/link.d CMakeFiles/bench_query.dir/bench/bench_query.cpp.o -o bench_query  libann_engine_lib.a _deps/benchmark-build/src/libbenchmark.a -lrt

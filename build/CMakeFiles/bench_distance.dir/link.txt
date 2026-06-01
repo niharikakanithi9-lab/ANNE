@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -march=native -DNDEBUG -Wl,--dependency-file=CMakeFiles/bench_distance.dir/link.d CMakeFiles/bench_distance.dir/bench/bench_distance.cpp.o -o bench_distance  libann_engine_lib.a _deps/benchmark-build/src/libbenchmark.a -lrt

@@ -1,0 +1,94 @@
+
+---
+events:
+  -
+    kind: "find-v1"
+    backtrace:
+      - "/usr/share/cmake-4.2/Modules/CMakeDetermineSystem.cmake:12 (find_program)"
+      - "CMakeLists.txt:16 (project)"
+    mode: "program"
+    variable: "CMAKE_UNAME"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "uname"
+    candidate_directories:
+      - "/usr/local/sbin/"
+      - "/usr/local/bin/"
+      - "/usr/sbin/"
+      - "/usr/bin/"
+      - "/sbin/"
+      - "/bin/"
+      - "/usr/games/"
+      - "/usr/local/games/"
+      - "/usr/lib/wsl/lib/"
+      - "/mnt/c/Users/nihar/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/mnt/c/Users/nihar/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/mnt/c/app/nihar/product/21c/dbhomeXE/bin/"
+      - "/mnt/c/windows/system32/"
+      - "/mnt/c/windows/"
+      - "/mnt/c/windows/System32/Wbem/"
+      - "/mnt/c/windows/System32/WindowsPowerShell/v1.0/"
+      - "/mnt/c/windows/System32/OpenSSH/"
+      - "/mnt/c/WINDOWS/system32/"
+      - "/mnt/c/WINDOWS/"
+      - "/mnt/c/WINDOWS/System32/Wbem/"
+      - "/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/"
+      - "/mnt/c/WINDOWS/System32/OpenSSH/"
+      - "/mnt/c/Program Files/Git/cmd/"
+      - "/mnt/c/Program Files/nodejs/"
+      - "/mnt/c/Users/nihar/AppData/Local/Microsoft/WindowsApps/"
+      - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git/"
+      - "/mnt/c/Users/nihar/AppData/Roaming/npm/"
+    searched_directories:
+      - "/usr/local/sbin/uname"
+      - "/usr/local/bin/uname"
+      - "/usr/sbin/uname"
+    found: "/usr/bin/uname"
+    search_context:
+      ENV{PATH}:
+        - "/usr/local/sbin"
+        - "/usr/local/bin"
+        - "/usr/sbin"
+        - "/usr/bin"
+        - "/sbin"
+        - "/bin"
+        - "/usr/games"
+        - "/usr/local/games"
+        - "/usr/lib/wsl/lib"
+        - "/mnt/c/Users/nihar/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/mnt/c/Users/nihar/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/mnt/c/app/nihar/product/21c/dbhomeXE/bin"
+        - "/mnt/c/windows/system32"
+        - "/mnt/c/windows"
+        - "/mnt/c/windows/System32/Wbem"
+        - "/mnt/c/windows/System32/WindowsPowerShell/v1.0/"
+        - "/mnt/c/windows/System32/OpenSSH/"
+        - "/mnt/c/WINDOWS/system32"
+        - "/mnt/c/WINDOWS"
+        - "/mnt/c/WINDOWS/System32/Wbem"
+        - "/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/"
+        - "/mnt/c/WINDOWS/System32/OpenSSH/"
+        - "/mnt/c/Program Files/Git/cmd"
+        - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Program Files/nodejs/"
+        - "/mnt/c/Users/nihar/AppData/Local/Microsoft/WindowsApps"
+        - "/mnt/c/Users/nihar/AppData/Local/Programs/Microsoft VS Code/bin"
+        - "/mnt/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Git"
+        - "/mnt/c/Users/nihar/AppData/Roaming/npm"
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/usr/share/cmake-4.2/Modules/CMakeDetermineSystem.cmake:212 (message)"
+      - "CMakeLists.txt:16 (project)"
+    message: |
+      The system is: Linux - 6.6.114.1-microsoft-standard-WSL2 - x86_64
+...
