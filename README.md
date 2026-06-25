@@ -124,7 +124,7 @@ Hand-written using Intel intrinsics (`_mm256_fmadd_ps`, `_mm256_loadu_ps`). Proc
 Dependencies (GoogleTest, Google Benchmark, CLI11) are fetched automatically.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ann-engine
+git clone https://github.com/niharikakanithi9-lab/ann-engine
 cd ann-engine
 cmake -B build -DCMAKE_BUILD_TYPE=Release
 cmake --build build -j$(nproc)
